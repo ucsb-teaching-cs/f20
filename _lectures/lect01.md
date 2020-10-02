@@ -2,7 +2,7 @@
 num: "Lecture 1"
 desc: "Orientation to the course"
 ready: true
-date: 2020-04-03 12:30:00.00-8:00
+date: 2020-10-02 12:30:00.00-8:00
 ---
 
 # Orientation for Tutors
@@ -39,9 +39,9 @@ For more information please read the syllabus!
 
 * Various assignments related to preparation for being a better mentor, and learning about CS Education.
 
-# Review [H00](ttps://ucsb-teaching-cs.github.io/s20/hwk/h00/)
+# Review [H00](ttps://ucsb-teaching-cs.github.io/f20/hwk/h00/)
 
-Bios and photos to share with students. For more information see [h00 writeup](https://ucsb-teaching-cs.github.io/s20/hwk/h00/)
+Bios and photos to share with students. For more information see [h00 writeup](https://ucsb-teaching-cs.github.io/f20/hwk/h00/)
 
 # Some basic teaching tips
 
