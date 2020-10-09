@@ -10,6 +10,12 @@ date: 2020-10-09 12:30
 * The Slack channel
 * New students (we'll do introductions in a bit)
 
+# New ways of accessing CSIL
+
+* ssh to csil.cs.ucsb.edu not csil-xx.cs.ucsb.edu
+* remote desktop
+* samba
+
 # About the course
 
 * What is the goal of 190J?
