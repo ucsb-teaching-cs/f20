@@ -1,38 +1,36 @@
 ---
 num: "Lecture 2"
-desc: "Scenes from tutoring"
+desc: "Teaching Tips"
 ready: true
-date: 2020-04-10 12:30:00.00-8:00
+date: 2020-10-09 12:30
 ---
 
-# Tutoring scenes
+# About the course
 
-Link to code for in class activity: [Code for in class activity](https://docs.google.com/document/d/1VGUup9dlOFCYMw5rjWcMrDi_-6N195P1BKmAUEmrlBg/edit?usp=sharing)
+* What is the goal of 190J?
+* Why are we not teaching you *how* to teach?
+
+# Some basic teaching tips
+
+* [Link to slides](https://docs.google.com/presentation/d/174MFcJV36IvCcjR5tB3TJEPJp6RWzbqitWmOcUVIF_Q/edit?usp=sharing)
+* [Link to original slides and other excellent material from CS Teaching Tips](http://csteachingtips.org/)
 
 ## Tips
 
-Dont's:
+**Dont's:**
 
 * Don't take control of the students keyboard (without asking)
-* Don't give away the answer (unless they are really stuck, very trivial, very complicated, or student is extremely frustrated) - M&A
-* Don't be condescending - D&T
+* Don't give away the answer (unless they are really stuck, very trivial, very complicated, or student is extremely frustrated)
+* Don't be condescending
 * Don't be afraid to say I don't know but let's find out.
 * Don't undermine the course, the lab, the instructor, your peers
 * Don't use terms that students don't know 
 
-Do's:
+**Do's:**
 
-* Keep your cool even if the student is anxious or beligerent - Mo&J
+* Keep your cool even if the student is anxious or beligerent
 * Keep the interaction and interersting
 * Refer to the lab write up and syllabus where appropriate 
 * Reflect on your tutoring/TA sessions
-
-# Homework
-
-* Various assignments related to preparation for being a better mentor, and learning about CS Education.
-
-# Review [H01](https://ucsb-teaching-cs.github.io/s20/hwk/h01/)
-
-Reflect on your own tutoring, read and summarize a book chapter on how people learn!
-
+* If you don't know how to handle a situation, inform the TA or instructor.
 
