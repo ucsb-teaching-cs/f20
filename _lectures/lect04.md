@@ -28,6 +28,6 @@ various topics.
   (Timekeeper would keep track of the time taken.)
   
 * After a tutor finishes the explanation, students will switch roles such that everyone will have an opportunity to be a tutor.
-   * For each student observed, please submit comments on the google form: [https://forms.gle/F12LTd5YTQ9wwykNA](https://forms.gle/F12LTd5YTQ9wwykNA)
+   * For each student observed, please submit comments on the google form: <https://forms.gle/hfLBmCKo3Yde1q3h8>
 
 After each student has had a chance to take a turn tutoring, and/or at 1:20pm (with 25 minutes left in class), return to the main Zoom room for a whole group discussion.
