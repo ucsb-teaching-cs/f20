@@ -1,8 +1,8 @@
 ---
-num: "Lecture 4"
+num: "Lecture 5"
 desc: "Tutoring Practice"
 ready: true
-date: 2020-10-23 12:30
+date: 2020-10-30 12:30
 ---
 
 # Explanation / Observation Activity
