@@ -25,9 +25,9 @@ And then write a short paragraph:
 
 * I'll put you in breakout rooms by course
 
-* Python intro level courses: CS8, CS8, Data Science
-* C++ intro level courses: CS16, CS24, CS32
-* More Advanced Courses: CS64, CS130A, CS130B, CS156
+* Python intro level courses: CS8, CS8, Data Science  [`#python-courses`](https://ucsb-cs-open-lab.slack.com/archives/C01F1MPD3GW)
+* C++ intro level courses: CS16, CS24, CS32  [`#cpp-lower-div`](https://ucsb-cs-open-lab.slack.com/archives/C01F8KW5R8B)
+* More Advanced Courses: CS64, CS130A, CS130B, CS156 [`#upper-div-courses`](https://ucsb-cs-open-lab.slack.com/archives/C01F8KX3FS7)
 
 Each breakout room: Choose a scribe, and have that person share their screen.
 
