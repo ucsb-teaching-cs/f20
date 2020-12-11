@@ -10,11 +10,11 @@ right here and right now.
 
 Please open up either Google Docs, or Word, or even just a vim/emacs, and write down anywhere from a couple of sentences to a full paragraph on each of these topics:
 
-* What course were you an LA for this quarter, and what do students learn in that course? (very briefly)
-* What role(s) did you play in that course?  (describe if you did office hours, helped with grading, any other duties)
-* 2nd IMPORTANT PART: What are the most important learnings you got from your work on the course you helped with?
-* MOST IMPORTANT PART: What are the most important learnings you got from CS190J? (if any)?
-* Optional, but helpful if you have time: Do you have any suggestions for improvements to either CS190J, the course you LA'd for, or the LA program in general?
+1. What course were you an LA for this quarter, and what do students learn in that course? (very briefly)
+2. What role(s) did you play in that course?  (describe if you did office hours, helped with grading, any other duties)
+3. 2nd IMPORTANT PART: What are the most important learnings you got from your work on the course you helped with?
+4. MOST IMPORTANT PART: What are the most important learnings you got from CS190J? (if any)?
+5. Optional, but helpful if you have time: Do you have any suggestions for improvements to either CS190J, the course you LA'd for, or the LA program in general?
 
 Please take 30 minutes to do this.   If folks need more time after that, we'll extend up to 40, but I want to leave time for discussion.
 
