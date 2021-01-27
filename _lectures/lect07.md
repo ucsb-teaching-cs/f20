@@ -9,5 +9,4 @@ We played the card game from here:
 
 <https://teaching-practices-game.herokuapp.com>
 
-[https://teaching-practices-game.herokuapp.com](https://teaching-practices-game.herokuapp.com)
 
